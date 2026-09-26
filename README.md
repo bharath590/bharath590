@@ -4,7 +4,7 @@
 
 ### Hey, I'm Bharath 👋
 
-I build the systems you only notice when they stop working. Currently engineering identity and authentication at **Microsoft**.
+Software Engineer at **Microsoft**, building scalable, reliable systems with a focus on distributed systems, identity, and authentication.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-8a6fff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathmusalaya009/) [![Public repositories](https://img.shields.io/badge/Explore_my_code-GitHub-d4ff75?style=for-the-badge&logo=github&logoColor=10121b)](https://github.com/bharath590?tab=repositories)
 
@@ -27,7 +27,7 @@ I like tracing a production issue to its root cause, then fixing the system so t
 ### `> microsoft --current-focus`
 
 - Building identity and authentication systems for cloud services.
-- **AI-driven development:** using AI to understand unfamiliar codebases, investigate issues, draft unit tests, and explore design tradeoffs.
+- **AI-driven development:** using AI to understand unfamiliar codebases, debug production issues, generate unit tests, explore design alternatives, learn new technologies, and draft documentation.
 - Reviewing generated code and validating changes with engineering judgment and testing.
 
 ### `> stack --toolbox`
@@ -41,8 +41,8 @@ I like tracing a production issue to its root cause, then fixing the system so t
 
 ### `> education --list`
 
-- **M.S. Computer Science** · University of Central Missouri · 2023
-- **B.Tech** · IIIT Guwahati · 2017
+- **M.S. Computer Science** · University of Central Missouri · 2022–2023
+- **B.Tech** · IIIT Guwahati · 2013–2017
 
 ### `> explore --public-work`
 
