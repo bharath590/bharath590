@@ -1,76 +1,87 @@
 <div align="center">
 
-<img src="./assets/bharath-signal.svg" alt="Animated signal map introducing Bharath Goud, software engineer building identity and distributed systems" width="100%" />
+<img src="./assets/bharath-signal.svg" alt="Bharath Goud — identity, distributed systems, and cloud infrastructure" width="100%" />
 
-### Hey, I'm Bharath 👋
+### I build the systems behind the experience.
 
-**SDE 2 at Microsoft** · Redmond, Washington
+**SDE 2 at Microsoft · Redmond, WA**  
+7+ years across fintech, healthtech, and edtech.
 
-7+ years across fintech, healthtech, and edtech. I build distributed systems, backend services, and cloud infrastructure, with a current focus on identity and authentication.
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-8a6fff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathmusalaya009/) [![Public repositories](https://img.shields.io/badge/Explore_my_code-GitHub-d4ff75?style=for-the-badge&logo=github&logoColor=10121b)](https://github.com/bharath590?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-ae94ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathmusalaya009/)
+[![Code](https://img.shields.io/badge/EXPLORE-My_Code-d4ff75?style=for-the-badge&logo=github&logoColor=10121b)](https://github.com/bharath590?tab=repositories)
 
 </div>
 
----
+<br>
 
-### `> career --trace`
-
-| Company | Role | Dates |
-| :-- | :-- | :-- |
-| Microsoft | SDE 2 | Apr 2026–Present |
-| Deutsche Bank | Assistant Vice President | Oct 2023–Apr 2026 |
-| Apollo 24\|7 | Senior Software Engineer | Apr 2021–Dec 2021 |
-| MFine | Software Engineer | Sep 2020–Mar 2021 |
-| Simplilearn | Software Engineer | Oct 2017–Aug 2020 |
-| Indian Institute of Technology, Delhi | Internship Trainee | May 2016–Jul 2016 |
+<img src="./assets/career-cards.svg" alt="Career and education: Microsoft, Deutsche Bank, Apollo 24|7, MFine, Simplilearn, IIT Delhi, University of Central Missouri, and IIIT Guwahati." width="100%" />
 
 <details>
-<summary>Open the career log</summary>
+<summary>Read my career and education details</summary>
 
-- **Microsoft:** Designing, building, and operating distributed identity and authentication services for Microsoft's cloud offerings, focused on reliability, scale, and zero-trust security.
-- **Deutsche Bank:** Tiered client pricing and bond-trading features for the D2C platform with Java, Spring Boot, and React. Deployed services on GKE with Terraform; used Splunk and JUnit for observability and testing.
-- **Apollo 24|7:** Scalable healthcare microservices supporting high-traffic patient flows.
-- **MFine:** Catalog management and ordering flows for healthcare products using Node.js, LoopBack, and MongoDB.
-- **Simplilearn:** Led the main website rebuild from LAMP to MERN, achieving page loads under two seconds. Built serverless services with AWS SAM, Lambda, DynamoDB, Step Functions, and API Gateway.
-- **IIT Delhi:** Internship Trainee, May–July 2016.
+**Microsoft — SDE 2** · Apr 2026–Present  
+Distributed identity and authentication services, focused on reliability, scale, and zero-trust security.
+
+**Deutsche Bank — Assistant Vice President** · Oct 2023–Apr 2026  
+Tiered client pricing and bond-trading features for the D2C platform. Java, Spring Boot, React, GKE, Terraform, Splunk, and JUnit.
+
+**Apollo 24|7 — Senior Software Engineer** · Apr 2021–Dec 2021  
+Scalable healthcare microservices supporting high-traffic patient flows.
+
+**MFine — Software Engineer** · Sep 2020–Mar 2021  
+Healthcare catalog management and ordering flows with Node.js, LoopBack, and MongoDB.
+
+**Simplilearn — Software Engineer** · Oct 2017–Aug 2020  
+LAMP-to-MERN website rebuild with page loads under two seconds; serverless services on AWS.
+
+**IIT Delhi — Internship Trainee** · May–Jul 2016
+
+**University of Central Missouri** · Master's degree, Computer Science · Jan 2022–May 2023  
+**IIIT Guwahati** · B.Tech, Computer Science · May 2013–May 2017
+
+**Microsoft Global Hackathon 2026** · Credential issued Aug 2026
 
 </details>
 
-I like tracing a production issue to its root cause, then fixing the system so the same issue stays fixed. My work spans **Java and Spring Boot**, event-driven services, cloud infrastructure, and the occasional frontend.
+<br>
 
-### `> microsoft --current-focus`
+### Built with curiosity. Accelerated by AI.
 
-- Building identity and authentication systems for cloud services.
-- **AI-driven development:** using AI to understand unfamiliar codebases, debug production issues, generate unit tests, explore design alternatives, learn new technologies, and draft documentation.
-- Reviewing generated code and validating changes with engineering judgment and testing.
+At Microsoft, I use **AI-driven development** to explore unfamiliar codebases, debug production issues, generate unit tests, compare designs, learn new technologies, and draft documentation. I review the output and validate the changes.
 
-### `> stack --toolbox`
+<br>
 
-| Area | Technologies |
-| :-- | :-- |
-| Backend | Java, Spring Boot, Node.js |
-| Messaging & data | Kafka, Redis, MongoDB, PostgreSQL |
-| Cloud & delivery | Azure, AWS, GCP/GKE, Docker, Kubernetes, Terraform |
-| Frontend | React, JavaScript |
-| Quality & observability | JUnit, Splunk |
+### My everyday toolkit
 
-### `> education --list`
+**Build** &nbsp; Java · Spring Boot · Node.js · React  
+**Connect** &nbsp; Kafka · Redis · MongoDB · PostgreSQL  
+**Ship** &nbsp; Azure · AWS · GCP/GKE · Docker · Kubernetes · Terraform  
+**Verify** &nbsp; JUnit · Splunk
 
-- **Master's degree, Computer Science** · University of Central Missouri · Jan 2022–May 2023
-- **Bachelor of Technology, Computer Science** · Indian Institute of Information Technology Guwahati · May 2013–May 2017
+<br>
 
-### `> milestones --latest`
+### A few things you can explore
 
-**Microsoft Global Hackathon 2026** · Microsoft · Issued Aug 2026
+**[Kafka in Java ↗](https://github.com/bharath590/Kafka_Java)**  
+Producers, callbacks, keyed messages, and consumers.
 
-### `> explore --public-work`
+**[Spring + MongoDB ↗](https://github.com/bharath590/mongodb-springboot-demo)**  
+Customer persistence with Spring Data MongoDB.
 
-| Project | What's inside |
-| :-- | :-- |
-| [NodeFromScratch](https://github.com/bharath590/NodeFromScratch) | Express API server with MongoDB |
-| [Kafka_Java](https://github.com/bharath590/Kafka_Java) | Producer, callback, keyed-message, and consumer examples |
-| [mongodb-springboot-demo](https://github.com/bharath590/mongodb-springboot-demo) | Customer persistence demo with Spring Data MongoDB |
-| [spring_rest_crud_apis](https://github.com/bharath590/spring_rest_crud_apis) | Student API using Spring Boot, JPA, and MySQL |
+**[Student REST API ↗](https://github.com/bharath590/spring_rest_crud_apis)**  
+Spring Boot, JPA, and MySQL in a learning project.
 
-<sub>Outside GitHub, I've worked on production systems in trading, healthcare, education, and cloud identity. Company code is private, so this page focuses on the public work I can share.</sub>
+**[Node API ↗](https://github.com/bharath590/NodeFromScratch)**  
+An Express API server with MongoDB.
+
+<br>
+
+---
+
+<div align="center">
+
+**Understand the problem. Build the solution. Make it reliable.**
+
+[Let's talk engineering ↗](https://www.linkedin.com/in/bharathmusalaya009/)
+
+</div>
